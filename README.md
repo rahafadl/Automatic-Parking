@@ -22,6 +22,4 @@ This project demonstrates an automated parking gate system built with Arduino. T
 
 ## Demo
 
-🎥 **Project Demonstration**
-
-[Watch the Demo Video](parking_gate_demo.mp4)
+🎥 [Watch the Demo Video](parking_gate_demo.mov)
