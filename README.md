@@ -20,8 +20,8 @@ This project demonstrates an automated parking gate system built with Arduino. T
 * Servo Motor
 * Arduino IDE
 
-## Demonstration
+## Demo
 
-https://github.com/rahafadl/Automatic-Parking-Gate-System/assets/your-video
+🎥 **Project Demonstration**
 
-> *(Replace the link above with your uploaded GitHub video.)*
+[Watch the Demo Video](الفديو(3).mp4)
